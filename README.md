@@ -13,11 +13,22 @@ Install pywhatkit module in shell
 pip install pywhatkit
 ```
 
-## Stepss
+## Steps
+
+### Install Module
 
 ![image 1](https://github.com/AdityaBahl/Whatsapp-Message-Sender/blob/main/images/1.png)
+
+### Project Code
+
 ![image 2](https://github.com/AdityaBahl/Whatsapp-Message-Sender/blob/main/images/2.png)
+
+### Whatsapp Messages
+
 ![image 3](https://github.com/AdityaBahl/Whatsapp-Message-Sender/blob/main/images/3.png)
+
+### Message in terminal telling whether the process was success or not
+
 ![image 4](https://github.com/AdityaBahl/Whatsapp-Message-Sender/blob/main/images/4.png)
 
 ## Why Whatsapp Message sender?
