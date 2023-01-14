@@ -17,7 +17,7 @@ pip install pywhatkit
 
 ### Install Module
 
-![image 1](https://github.com/AdityaBahl/Whatsapp-Message-Sender/blob/main/images/1.png)
+![image 1](/images/1.png)
 
 ### Project Code
 
