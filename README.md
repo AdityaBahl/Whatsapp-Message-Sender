@@ -1,7 +1,5 @@
 # Whatsapp Message Sender
 
-![image](https://github.com/AdityaBahl/Wordle-Game/blob/main/sample.png)
-
 ## Technologies Used
 
 1. **Python**
@@ -23,7 +21,7 @@ There are several reasons why someone might choose to use Pywhatkit to automate 
 
 ## What is Pywhatkit?
 
-Pywhatkit is a Python library that allows you to automate the task of sending WhatsApp messages. It uses the WhatsApp Web feature to send the messages, which requires the user to scan a QR code to log in to WhatsApp on their computer, if not already logged in.
+**Pywhatkit** is a **Python library** that allows you to automate the task of sending WhatsApp messages. It uses the WhatsApp Web feature to send the messages, which requires the user to scan a QR code to log in to WhatsApp on their computer, if not already logged in.
 While Pywhatkit is a useful tool for automating WhatsApp messaging, it's important to note that it's not an official WhatsApp API and its functionality may change or break at any time, also it's usage might violate WhatsApp terms of service. It's important to use it responsibly and not to send unwanted messages or spam.
 
 ## Challenges and Limitations
@@ -50,7 +48,7 @@ It's important to keep these challenges and limitations in mind when using Pywha
 
 ## Conclusion
 
-In conclusion, Pywhatkit is a useful tool for automating the task of sending WhatsApp messages. It allows for automation of repetitive tasks, scheduling messages, and sending messages from a script. However, it's important to keep in mind that Pywhatkit is a third-party library and its functionality may change or break at any time. Additionally, it may not be in compliance with WhatsApp's terms of service, and can lead to account blocking or banning. It's important to use Pywhatkit responsibly and not to send unwanted or spam messages.
+In conclusion, **Pywhatkit** is a useful tool for automating the task of sending WhatsApp messages. It allows for automation of repetitive tasks, scheduling messages, and sending messages from a script. However, it's important to keep in mind that Pywhatkit is a third-party library and its functionality may change or break at any time. Additionally, it may not be in compliance with WhatsApp's terms of service, and can lead to account blocking or banning. It's important to use Pywhatkit responsibly and not to send unwanted or spam messages.
 It also has limitations like message rate limit and error handling, also it does not have built-in error handling features. Therefore it's important to be aware of these limitations and implement error handling logic in the script, and check for updates.
 It's important to use Pywhatkit in a way that is responsible and within the bounds of WhatsApp's terms of service, and to be aware of the potential challenges and limitations that may arise when using it.
 
