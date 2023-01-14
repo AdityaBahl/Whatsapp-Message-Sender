@@ -15,7 +15,7 @@ There are several reasons why someone might choose to use Pywhatkit to automate 
 
 2. **Scheduling messages:** Pywhatkit allows you to schedule messages to be sent at a specific time, which can be useful for scheduling reminders or sending messages at a specific time of day.
 
-3. Sending messages from a script: Pywhatkit can be used to send messages from a script, which can be useful for sending messages as part of a larger automation or data processing workflow.
+3. **Sending messages from a script:** Pywhatkit can be used to send messages from a script, which can be useful for sending messages as part of a larger automation or data processing workflow.
 
 4. No need of phone : As the Pywhatkit uses WhatsApp web, it does not require a phone to be connected to the computer.
 
