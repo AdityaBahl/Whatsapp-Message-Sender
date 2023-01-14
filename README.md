@@ -50,7 +50,9 @@ It's important to keep these challenges and limitations in mind when using Pywha
 
 ## Conclusion
 
-In conclusion, building a Wordle-like game using APIs and Node.js can be a challenging but rewarding project. By using APIs, the game can access and retrieve data from external sources, providing a rich and dynamic gaming experience for players. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, can be used to execute the game's code and handle its server-side logic. Some potential challenges that may arise include integrating with external APIs, managing the game state, ensuring good performance, testing and debugging, and maintaining security. By carefully designing and implementing the game, it is possible to create a fun and engaging Wordle-like game that players will enjoy.
+In conclusion, Pywhatkit is a useful tool for automating the task of sending WhatsApp messages. It allows for automation of repetitive tasks, scheduling messages, and sending messages from a script. However, it's important to keep in mind that Pywhatkit is a third-party library and its functionality may change or break at any time. Additionally, it may not be in compliance with WhatsApp's terms of service, and can lead to account blocking or banning. It's important to use Pywhatkit responsibly and not to send unwanted or spam messages.
+It also has limitations like message rate limit and error handling, also it does not have built-in error handling features. Therefore it's important to be aware of these limitations and implement error handling logic in the script, and check for updates.
+It's important to use Pywhatkit in a way that is responsible and within the bounds of WhatsApp's terms of service, and to be aware of the potential challenges and limitations that may arise when using it.
 
 ### MIT Licence
 
