@@ -6,7 +6,7 @@ while(i != 0):
     #To send at a 12:54 :-
     #pwk.sendwhatmsg('+91234567089', 'Lets goooooooo',12,54)
     print("Successfully Sent!")
-    i = -1
+    i = i-1
 
 # below are the functions of pywhatkit
 
