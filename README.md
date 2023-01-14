@@ -30,9 +30,9 @@ While Pywhatkit is a useful tool for automating WhatsApp messaging, it's importa
 
 There are several challenges and limitations of using Pywhatkit to automate sending WhatsApp messages:
 
-1. Reliability: Pywhatkit uses the WhatsApp Web feature to send messages, which may be subject to change or break at any time. This can make the library unreliable and cause messages to fail to send.
+1. **Reliability:** Pywhatkit uses the WhatsApp Web feature to send messages, which may be subject to change or break at any time. This can make the library unreliable and cause messages to fail to send.
 
-2. Security: Pywhatkit requires the user to scan a QR code to log in to WhatsApp on their computer, which may be less secure than logging in with a phone number and a one-time code.
+2. **Security:** Pywhatkit requires the user to scan a QR code to log in to WhatsApp on their computer, which may be less secure than logging in with a phone number and a one-time code.
 
 3. WhatsApp terms of service : WhatsApp have their own terms of service, Automating message sending using Pywhatkit might be in violation of WhatsApp terms of service, which could lead to your account being blocked or banned.
 
