@@ -1,47 +1,25 @@
-# Wordle Game Using Node.js and APIs
+# Whatsapp Message Sender
 
 ![image](https://github.com/AdityaBahl/Wordle-Game/blob/main/sample.png)
 
 ## Technologies Used
 
-1. **HTML**
-2. **CSS**
-3. **Vanilla JavaScript**
-4. **Node.js**
-5. **[Word Dictionary API](https://rapidapi.com/twinword/api/word-dictionary/)**
-6. **[Random Words API](https://rapidapi.com/sheharyar566/api/random-words5/)**
+1. **Python**
+2. **Pykitwhat**
 
-## Getting Started
+## Why Whatsapp Message sender?
 
-To start this project please go to **RapidAPI** to sign up for the [APIs](https://bit.ly/rapidapi-hub).
+There are several reasons why someone might choose to use Pywhatkit to automate sending WhatsApp messages:
 
-### `.env`
+1. Automation of repetitive tasks: Pywhatkit can be used to automate repetitive tasks such as sending the same message to multiple recipients, which can save time and increase efficiency.
 
-Now create a `.env` file in the root of your project with the following:
+2. Scheduling messages: Pywhatkit allows you to schedule messages to be sent at a specific time, which can be useful for scheduling reminders or sending messages at a specific time of day.
 
-```
-RAPID_API_KEY={your_rapid_api_key}
-```
+3. Sending messages from a script: Pywhatkit can be used to send messages from a script, which can be useful for sending messages as part of a larger automation or data processing workflow.
 
-To run this project please type the following commands:
+4. No need of phone : As the Pywhatkit uses WhatsApp web, it does not require a phone to be connected to the computer.
 
-### `npm i`
-
-This will install all the necessary dependencies.
-
-### `npm run start:backend`
-
-This will start the backend on [http://localhost:8000](http://localhost:8000).
-
-### `copy the path to your index.html file`
-
-Copy the path to this file and paste it in your browser to see the game and play.
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-## Why Wordle?
-
-**Wordle** is a web-based game that uses APIs (Application Programming Interfaces) and Node.js to provide users with a fun and interactive experience. APIs allow Wordle to access and retrieve data from external sources, such as a dictionary or thesaurus, and use that data to generate the words and challenges that players must solve. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, is used to execute the game's code and handle its server-side logic. By using APIs and Node.js, Wordle is able to provide a seamless and dynamic gaming experience for players.
+5. Personalization : Pywhatkit can be used to send personalized messages to a large number of recipients, which can be useful for marketing or other purposes.
 
 ## Algorithm
 
