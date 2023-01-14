@@ -5,6 +5,14 @@
 1. **Python**
 2. **Pykitwhat**
 
+## Get Started
+
+Install pywhatkit module using
+
+```
+pip install pywhatkit
+```
+
 ## Why Whatsapp Message sender?
 
 There are several reasons why someone might choose to use Pywhatkit to automate sending WhatsApp messages:
