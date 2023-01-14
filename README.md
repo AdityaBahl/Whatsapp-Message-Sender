@@ -19,7 +19,7 @@ There are several reasons why someone might choose to use Pywhatkit to automate 
 
 4. **No need of phone:** As the Pywhatkit uses WhatsApp web, it does not require a phone to be connected to the computer.
 
-5. Personalization : Pywhatkit can be used to send personalized messages to a large number of recipients, which can be useful for marketing or other purposes.
+5. **Personalization:** Pywhatkit can be used to send personalized messages to a large number of recipients, which can be useful for marketing or other purposes.
 
 ## Algorithm
 
