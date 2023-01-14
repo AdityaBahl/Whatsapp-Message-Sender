@@ -1,5 +1,6 @@
 import pywhatkit as pwk
-#Before using this
+#Before using this install pywhatkit
+
 # this project sends whatsapp messages i number of times
 i = 5
 while(i != 0):
