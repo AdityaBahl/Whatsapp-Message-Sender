@@ -7,7 +7,7 @@
 
 ## Get Started
 
-Install pywhatkit module using
+Install pywhatkit module in shell
 
 ```
 pip install pywhatkit
