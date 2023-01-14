@@ -26,27 +26,27 @@ There are several reasons why someone might choose to use Pywhatkit to automate 
 Pywhatkit is a Python library that allows you to automate the task of sending WhatsApp messages. It uses the WhatsApp Web feature to send the messages, which requires the user to scan a QR code to log in to WhatsApp on their computer, if not already logged in.
 While Pywhatkit is a useful tool for automating WhatsApp messaging, it's important to note that it's not an official WhatsApp API and its functionality may change or break at any time, also it's usage might violate WhatsApp terms of service. It's important to use it responsibly and not to send unwanted messages or spam.
 
-## Algorithm
-
-1. The game generates a grid of letters and displays it to the player.
-2. The player selects a sequence of letters in the grid to form a word.
-3. The game sends a request to a dictionary API to check if the word is a valid English word.
-4. If the word is valid, the game updates the score and displays a new grid of letters to the player.
-5. If the word is not valid, the game informs the player and allows them to try again.
-
-This is just one possible approach to building a Wordle-like game. There are many other ways to design and implement such a game, and the specific algorithms and techniques used will depend on the desired features and functionality of the game.
-
 ## Challenges and Limitations
 
-1. **Integrating with external APIs:** Depending on the APIs used, integrating with them can be a complex task. There may be issues with authentication, rate limiting, or handling unexpected responses.
+There are several challenges and limitations of using Pywhatkit to automate sending WhatsApp messages:
 
-2. **Managing the game state:** As the game progresses, the state of the game will change (e.g., new grids of letters will be displayed, scores will be updated). Care must be taken to ensure that the game state is properly managed and persisted, especially if the game is being played by multiple users concurrently.
+Reliability: Pywhatkit uses the WhatsApp Web feature to send messages, which may be subject to change or break at any time. This can make the library unreliable and cause messages to fail to send.
 
-3. **Ensuring performance:** A slow or unresponsive game can be frustrating for players. Careful optimization of the code and use of appropriate caching techniques can help ensure good performance.
+Security: Pywhatkit requires the user to scan a QR code to log in to WhatsApp on their computer, which may be less secure than logging in with a phone number and a one-time code.
 
-4. **Testing and debugging:** As with any software project, testing and debugging are important tasks that must be undertaken to ensure that the game is functioning correctly. This can be especially challenging in a web-based game that involves interactions with external APIs.
+WhatsApp terms of service : WhatsApp have their own terms of service, Automating message sending using Pywhatkit might be in violation of WhatsApp terms of service, which could lead to your account being blocked or banned.
 
-5. **Maintaining security:** It is important to ensure that the game is secure and that user data is protected. This may involve implementing measures such as input validation and sanitization, as well as properly handling sensitive information such as passwords and API Keys.
+Spamming: Pywhatkit can be used to send a large number of messages in a short amount of time, which can lead to spamming and unwanted messages. Therefore it's important to use it responsibly, and not to send unwanted or spam messages.
+
+Message rate limit : WhatsApp have a limitation on the number of messages that can be sent in a certain time frame, this can be a limitation for Pywhatkit as well.
+
+Error handling: Pywhatkit does not have built-in error handling features, it's important to implement error handling logic in the script to handle any errors that may occur during the execution.
+
+Maintenance: Pywhatkit is a third-party library, and as such, it may not be updated regularly, it's important to check for updates and keep the library up-to-date.
+
+Personalization : Pywhatkit can be used to send personalized messages, but the script needs to be written in a way that can handle the personalization, and the data to be used.
+
+It's important to keep these challenges and limitations in mind when using Pywhatkit to automate sending WhatsApp messages, and to use the library responsibly and within the bounds of WhatsApp's terms of service.
 
 ## Conclusion
 
