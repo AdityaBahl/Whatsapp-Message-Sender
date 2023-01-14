@@ -1,5 +1,5 @@
 import pywhatkit as pwk
-# this project sends whatsapp
+# this project sends whatsapp messages
 i = 5
 while(i != 0):
     pwk.sendwhatmsg_instantly('+91234567089', 'Lets goooooo')
