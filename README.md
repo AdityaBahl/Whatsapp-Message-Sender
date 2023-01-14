@@ -11,7 +11,7 @@
 
 There are several reasons why someone might choose to use Pywhatkit to automate sending WhatsApp messages:
 
-1. Automation of repetitive tasks: Pywhatkit can be used to automate repetitive tasks such as sending the same message to multiple recipients, which can save time and increase efficiency.
+1. **Automation of repetitive tasks:** Pywhatkit can be used to automate repetitive tasks such as sending the same message to multiple recipients, which can save time and increase efficiency.
 
 2. Scheduling messages: Pywhatkit allows you to schedule messages to be sent at a specific time, which can be useful for scheduling reminders or sending messages at a specific time of day.
 
