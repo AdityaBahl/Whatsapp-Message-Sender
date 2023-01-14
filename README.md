@@ -27,7 +27,7 @@ pip install pywhatkit
 
 ![image 3](https://github.com/AdityaBahl/Whatsapp-Message-Sender/blob/main/images/3.png)
 
-### Message in terminal telling whether the process was success or not
+### Message in terminal telling whether the process was successful or not
 
 ![image 4](https://github.com/AdityaBahl/Whatsapp-Message-Sender/blob/main/images/4.png)
 
