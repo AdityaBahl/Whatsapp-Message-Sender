@@ -1,9 +1,10 @@
 import pywhatkit as pwk
-# this project
+# this project sends
 i = 5
 while(i != 0):
-    pwk.sendwhatmsg_instantly('+917230815261', 'Lets goooooo')
-    #pwk.sendwhatmsg('+917230815261', 'Tatti Khaale',12,54)
+    pwk.sendwhatmsg_instantly('+91234567089', 'Lets goooooo')
+    #To send at a 12:54 :-
+    #pwk.sendwhatmsg('+91234567089', 'Lets goooooooo',12,54)
     print("Successfully Sent!")
     i = -1
 
