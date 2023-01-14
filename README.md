@@ -38,13 +38,13 @@ There are several challenges and limitations of using Pywhatkit to automate send
 
 4. **Spamming:** Pywhatkit can be used to send a large number of messages in a short amount of time, which can lead to spamming and unwanted messages. Therefore it's important to use it responsibly, and not to send unwanted or spam messages.
 
-5. Message rate limit : WhatsApp have a limitation on the number of messages that can be sent in a certain time frame, this can be a limitation for Pywhatkit as well.
+5. **Message rate limit:** WhatsApp have a limitation on the number of messages that can be sent in a certain time frame, this can be a limitation for Pywhatkit as well.
 
-6. Error handling: Pywhatkit does not have built-in error handling features, it's important to implement error handling logic in the script to handle any errors that may occur during the execution.
+6. **Error handling:** Pywhatkit does not have built-in error handling features, it's important to implement error handling logic in the script to handle any errors that may occur during the execution.
 
-7. Maintenance: Pywhatkit is a third-party library, and as such, it may not be updated regularly, it's important to check for updates and keep the library up-to-date.
+7. **Maintenance:** Pywhatkit is a third-party library, and as such, it may not be updated regularly, it's important to check for updates and keep the library up-to-date.
 
-8. Personalization : Pywhatkit can be used to send personalized messages, but the script needs to be written in a way that can handle the personalization, and the data to be used.
+8. **Personalization:** Pywhatkit can be used to send personalized messages, but the script needs to be written in a way that can handle the personalization, and the data to be used.
 
 It's important to keep these challenges and limitations in mind when using Pywhatkit to automate sending WhatsApp messages, and to use the library responsibly and within the bounds of WhatsApp's terms of service.
 
