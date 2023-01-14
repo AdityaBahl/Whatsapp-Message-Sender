@@ -23,6 +23,8 @@ There are several reasons why someone might choose to use Pywhatkit to automate 
 
 ## What is Pywhatkit?
 
+Pywhatkit is a Python library that allows you to automate the task of sending WhatsApp messages. It uses the WhatsApp Web feature to send the messages, which requires the user to scan a QR code to log in to WhatsApp on their computer, if not already logged in.
+
 ## Algorithm
 
 1. The game generates a grid of letters and displays it to the player.
