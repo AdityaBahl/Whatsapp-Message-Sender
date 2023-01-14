@@ -21,6 +21,8 @@ There are several reasons why someone might choose to use Pywhatkit to automate 
 
 5. **Personalization:** Pywhatkit can be used to send personalized messages to a large number of recipients, which can be useful for marketing or other purposes.
 
+## What is Pywhatkit?
+
 ## Algorithm
 
 1. The game generates a grid of letters and displays it to the player.
