@@ -2,8 +2,8 @@
 
 ## Technologies Used
 
-1. **Python**
-2. **Pykitwhat**
+1. **_Python_**
+2. **_Pykitwhat_**
 
 ## Get Started
 
