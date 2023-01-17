@@ -17,19 +17,19 @@ pip install pywhatkit
 
 ### Install Module
 
-![image 1](/images/1.png)
+![1](https://user-images.githubusercontent.com/90335449/212978975-776bd4d5-1123-4499-aaf4-a4c590590e60.png)
 
 ### Project Code
 
-![image 2](https://github.com/AdityaBahl/Whatsapp-Message-Sender/blob/main/images/2.png)
+![2](https://user-images.githubusercontent.com/90335449/212979159-cc73edea-fc73-4993-89c0-8776c8e8037f.png)
 
 ### Whatsapp Messages
 
-![image 3](https://github.com/AdityaBahl/Whatsapp-Message-Sender/blob/main/images/3.png)
+![3](https://user-images.githubusercontent.com/90335449/212979204-a6e06d8e-e4cf-4f45-8bfd-4d8586609614.png)
 
 ### Message in terminal telling whether the process was successful or not
 
-![image 4](https://github.com/AdityaBahl/Whatsapp-Message-Sender/blob/main/images/4.png)
+![4](https://user-images.githubusercontent.com/90335449/212979246-92fff823-8f7f-4322-b749-ba9157be978c.png)
 
 ## Why Whatsapp Message Sender?
 
