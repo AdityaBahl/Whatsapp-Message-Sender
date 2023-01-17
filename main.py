@@ -4,7 +4,7 @@ import pywhatkit as pwk
 # this project sends whatsapp messages i number of times
 i = 5
 while(i != 0):
-    pwk.sendwhatmsg_instantly('+91234567089', 'Lets goooooo')
+    pwk.sendwhatmsg_instantly('+917505035476', 'Lets goooooo')
     #To send at a 12:54 :-
     #pwk.sendwhatmsg('+91234567089', 'Lets goooooooo',12,54)
     print("Successfully Sent!")
